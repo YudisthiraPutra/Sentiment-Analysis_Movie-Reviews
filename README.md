@@ -1,1 +1,1 @@
-# Sentiment-Analysis_Movie-Reviews
+This repository is dedicated to sentiment analysis, particularly for movie reviews. It includes various models, primarily from the SVC library. These models encompass Linear SVM, SVC with Polynomial Kernel, SVC with RBF Kernel, SVC with Sigmoid Kernel, and SVC with Linear Kernel. Additionally, I experimented with ensemble methods using all previously created models.
